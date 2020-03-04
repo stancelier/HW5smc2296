@@ -7,7 +7,7 @@ Authors:
            role = c("aut", "cre"),
            email = "first.last@example.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Depends:
+Imports:
     tidyverse,
     corrplot
 Description: What the package does (one paragraph).
